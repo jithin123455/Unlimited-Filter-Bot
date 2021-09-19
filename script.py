@@ -4,7 +4,7 @@ class Script(object):
 
 I'm an pro filter bot with many features !
 There is no limits for my filtering capacity :)
-
+</b> <a href='https://telegra.ph/file/ee59db271b67c9a46c05a.jpg/'>❤️❤️</a>
 See <i>/help</i> for commands and more details.</b>
 """
 
@@ -41,7 +41,7 @@ See <i>/help</i> for commands and more details.</b>
 
 <b>Extras;</b>
 
-/status  -  Shows current status of your bot (Auth User Only)
+/status  -  Shows current status of your bot (OWNER  Only)
 
 /id  -  Shows ID information
 
